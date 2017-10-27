@@ -66,6 +66,7 @@ namespace linquygulama
                 Employee emp = JsonConvert.DeserializeObject<Employee>(item);
                 eList.Add(emp);
             }
+
             #endregion
 
             var calısanliste = (from item in eList select item);
