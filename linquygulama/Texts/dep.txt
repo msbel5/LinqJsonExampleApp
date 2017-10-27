@@ -1,0 +1,3 @@
+{"Id":"1","DepartmanAdi":"IT"}
+{"Id":"2","DepartmanAdi":"Muhasebe"}
+{"Id":"3","DepartmanAdi":"Satýs"}

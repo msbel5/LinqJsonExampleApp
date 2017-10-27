@@ -1,0 +1,31 @@
+
+	Çalýþanlar = {Adi="Mehmet",Soyad="Tan",Sehir="Ýzmir","DepartmanId=1",SorumluId=3,Dt=10.10.1991,ÝseGirisTarihi=10.10.2010,IstenCýkýsTarihi=10.10.2015}
+{Adi="Mustafa",Soyad="Tan",Sehir="Ýzmir","DepartmanId=2",SorumluId=2,Dt=10.10.1993,ÝseGirisTarihi=10.10.2009,IstenCýkýsTarihi=10.10.2015}
+{Adi="Cenk",Soyad="Tan",Sehir="Ýstanbul","DepartmanId=3",SorumluId=null,Dt=10.10.1995,ÝseGirisTarihi=10.10.1990,IstenCýkýsTarihi=10.10.2000}
+{Adi="Mahmut",Soyad="Tan",Sehir="Ýstanbul","DepartmanId=3",SorumluId=null,Dt=10.10.1996,ÝseGirisTarihi=10.10.2007,IstenCýkýsTarihi=10.10.2017}
+
+	Departmanlar = {Id=1,DepartmanAdi="IT"},{Id=2,DepartmanAdi="Muhasebe"},{Id=3,DeparmanAdi="Satýþ"}
+
+	Calisan
+	CalisanAdi
+	CalisanSoyadi
+	CalisanSehir
+	ÝseGirisTarihi
+	ÝstenCikisTarihi
+	Departmaný
+	Sorumlusu
+	Dogum Tarihi
+	
+	gibi bilgileri tutacaðýmýz bir sýnýf tanýmlayalým. Bu sýnýf ile aþaðýdaki sorgularý linq kullanarak yazalým. 
+
+       1) Calisanlarýn Listesi
+       2) Calisanlarýn Ad,Soyadlarýna göre seçimi
+       3) Calisan Sorumlu Rapor View (Calisan AdSoyad,SorumluAdSoyad,DepartmanAdi) gibi alanlarý içermeli
+       4) Calianlarýn Yaslarini gösteren view yapalým (calisanadSoyad,Yas)
+       5) Dogumgünü bugun olan çalýþanlarýn listesi
+       6) Þehirlerine göre çalýþanlarý grupayalým (Hangi þehirde kaç çalýþaným var)
+       7) Hangi Departmanda Kaç Çalýþan var sorgusu
+       8) Çalýþan Departman Sorumlu Raporunu oluþturalým
+       9) Ýþe Giriþ Yýlý 1990 dan sonra olan çalýþanklarýn listesi
+       10) 2016 yýlýndan sonra iþten çýkan çalýþanlarýn listesi 
+ 	

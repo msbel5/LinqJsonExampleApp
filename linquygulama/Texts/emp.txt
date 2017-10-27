@@ -1,0 +1,4 @@
+{"ID":"1","Adi":"Mehmet","Soyad":"Tan","Sehir":"Ýzmir","DepartmanId":"1","SorumluId":"3","Dt":"10.10.1991","GirisTarih":"10.10.2010","CikisTarih":"10.10.2015"}
+{"ID":"2","Adi":"Mustafa","Soyad":"Tan","Sehir":"Ýzmir","DepartmanId":"2","SorumluId":"2","Dt":"10.10.1993","GirisTarih":"10.10.2009","CikisTarih":"10.10.2015"}
+{"ID":"3","Adi":"Cenk","Soyad":"Tan","Sehir":"Ýstanbul","DepartmanId":"3","SorumluId":"","Dt":"10.10.1995","GirisTarih":"10.10.1990","CikisTarih":"10.10.2000"}
+{"ID":"4","Adi":"Mahmut","Soyad":"Tan","Sehir":"Ýstanbul","DepartmanId":"3","SorumluId":"","Dt":"10.10.1996","GirisTarih":"10.10.2007","CikisTarih":"10.10.2017"}
